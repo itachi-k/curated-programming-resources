@@ -2,7 +2,7 @@
 
 ## Table of contents 
 
-- [Introduction](#introduction)
+- [Introduction](#introduction) hi
     - [Motivation and Goals](#motivation-and-goals)
     - [Where do I start?](#where-do-i-start)
     - [How this page is organized](#how-this-page-is-organized)
